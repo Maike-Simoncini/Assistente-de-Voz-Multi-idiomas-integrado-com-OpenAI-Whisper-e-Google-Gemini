@@ -1,0 +1,1 @@
+# Assistente-de-Voz-Multi-idiomas-integrado-com-OpenAI-Whisper-e-Google-Gemini-
